@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+.conda/
+
+# VS Code
+.vscode/
+
+# Generated files
+Ticket.pdf
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
