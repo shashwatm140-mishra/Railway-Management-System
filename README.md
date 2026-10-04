@@ -195,3 +195,26 @@ Through this project, I worked with:
 This project is created for **educational and demonstration purposes only**.
 
 It is not affiliated with, operated by, or connected to **Indian Railways or IRCTC**.
+
+## Project Screenshots
+
+### Official Employee Login
+![Official Login](screenshots/Official_Login_page.png)
+
+### Official Functions
+![Official Functions](screenshots/Official_Function.png)
+
+### Add Train to Database
+![Add to Database](screenshots/Add_to_Database.png)
+
+### Ticket Booking
+![Booking Window](screenshots/Booking_Window.png)
+
+### Ticket Details
+![Ticket Details](screenshots/Ticket%20Details.png)
+
+### Generated Ticket PDF
+![Ticket PDF](screenshots/Ticket_PDF.png)
+
+### PNR Status
+![PNR Status](screenshots/PNR_Status.png)
